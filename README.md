@@ -1,1 +1,2 @@
-## For chapter 3
+## Binary Search with C++
+
